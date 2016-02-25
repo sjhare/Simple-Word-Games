@@ -1,0 +1,10 @@
+seat
+plan
+call
+keys
+door
+nail
+book
+card
+lamp
+foot
